@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# PyTorch / Jupyter
+.ipynb_checkpoints/
+
+# Model weights (optional, uncomment if files are too large for GitHub)
+# result/*.pth
